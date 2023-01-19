@@ -1,4 +1,5 @@
 # data-science
+-Fernando Mantilla CS 301-102 S2022
 
 Introduction to Data Science Course Content
 
